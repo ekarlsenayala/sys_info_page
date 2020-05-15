@@ -1,4 +1,6 @@
-#!/bin/bash
-# This is our first script.
-echo 'Hello World!'
+#! /bin/bash
+#this is a script 
+
+echo 'sys_info_page!'
+
 
